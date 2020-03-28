@@ -6,3 +6,5 @@ Utilizando:
 - nodemon
 - knex
 - sqlite
+- jest
+ 
