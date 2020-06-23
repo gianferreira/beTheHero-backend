@@ -1,39 +1,39 @@
 <h3 align="center">
-  <img alt="Be-The-Hero" src="https://github.com/gianferreira/omnistack11-backend/blob/master/readme-logo.png" width="200px"/>
+  <img alt="Be-The-Hero" src="https://github.com/gianferreira/beTheHero-backend/blob/master/readme-logo.png" width="200px"/>
 </h3>
 
 <h1 align="center">
   Be The Hero - Back-end
 </h1>
 
-<p align="center">API em Node.js da aplicação Be The Hero.</p>
+<p align="center">Back-end em Node.js da aplicação Be The Hero</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/omnistack11-backend">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/omnistack11-backend">
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/omnistack11-backend">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/beTheHero-backend">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/beTheHero-backend">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/beTheHero-backend">
 </p>
 
 ## Sobre:
 
-API construída com node.js que realiza o cadastro e manutenção de `ongs`, essas ONGs possuem um ID e podem cadastrar `incidents`, e através de um aplicativo mobile, pessoas podem fazer doações. Dessa forma "sendo o herói" de uma causa.
+API desenvolvida em Node.js que realiza o cadastro e manutenção de `ongs`. Essas ONGs possuem um ID próprio e podem cadastrar `incidents`, através de um aplicativo mobile, pessoas podem fazer doações. Dessa forma "sendo o herói" de uma causa.
 
 ## Tecnologias utilizadas:
 
-- Node.js
+- node.js
 - npm
-- Express
-- Nodemon
-- Knex
-- SQLite
-- Jest
+- express
+- nodemon
+- knex
+- sqLite
+- jest
 
 ## Instalação e execução:
 
 Na primeira vez que for utilizar, faça um clone deste repositório:
 
 ```bash
-$ git clone https://github.com/gianferreira/omnistack11-backend
+$ git clone https://github.com/gianferreira/beTheHero-backend
 ```
 
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
