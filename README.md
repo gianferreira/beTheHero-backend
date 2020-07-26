@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Be-The-Hero" src="https://github.com/gianferreira/beTheHero-backend/blob/master/readme-logo.png" width="200px"/>
+  <img alt="Be-The-Hero" src="https://github.com/gianferreira/beTheHero-backend/blob/master/readme-logo.png" height="85px"/>
 </h3>
 
 <h1 align="center">
@@ -63,8 +63,8 @@ yarn start
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante a semana Omnistack da 
+  Este projeto foi desenvolvido durante a semana Omnistack da 
     <a href="https://rocketseat.com.br/">
-      RocketSeat
+      Rocketseat
     </a>
 </blockquote>
